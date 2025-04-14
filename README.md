@@ -1,52 +1,44 @@
-Problem Solving Repository
-Welcome to my Problem Solving repository! This repo contains solutions to various algorithmic problems from platforms like HackerRank and LeetCode. The problems are categorized by type, and solutions are implemented in C# and SQL for database-related problems.
+# Problem Solving Repository
 
-Table of Contents
-Introduction
+This repository contains my solutions to various coding problems that I've solved on platforms like **HackerRank** and **LeetCode**. The problems are organized into categories, and each solution is accompanied by an analysis of its time and space complexity. The code is written in **C#** for algorithmic problems and **SQL** for database-related challenges.
 
-Problem Categories
+## Table of Contents
 
-Complexity Analysis
+- [Coding Platforms](#coding-platforms)
+- [Problem Categories](#problem-categories)
+- [Code Language](#code-language)
+- [Contact](#contact)
 
-Technologies Used
+## Coding Platforms
 
-Contact
+The problems in this repository are solved from the following platforms:
 
-Introduction
-This repository aims to provide solutions to a variety of coding problems to enhance problem-solving skills. Each problem comes with an analysis of its time and space complexity. The solutions are written in C# for algorithmic problems and SQL for database-related problems.
+- **HackerRank**
+- **LeetCode**
 
-Problem Categories
-The problems in this repository are categorized into the following areas:
+## Problem Categories
 
-Arrays
+The problems are categorized to make it easier to find solutions based on the problem type. Categories include, but are not limited to:
 
-Strings
+- Arrays
+- Strings
+- Dynamic Programming
+- Graphs
+- Trees
+- Databases (SQL)
 
-Dynamic Programming
+## Code Language
 
-Graph Theory
+- **C#** is used for algorithmic problems.
+- **SQL** is used for database-related problems.
 
-Sorting & Searching
+### Time and Space Complexity
 
-Database
+For each problem, I have included an analysis of the **time complexity** and **space complexity** to ensure a deeper understanding of the problem-solving approach.
 
-Mathematics
+## Contact
 
-Bit Manipulation
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Gmail**: your.email@example.com
 
-Feel free to explore each folder for solutions to problems in the respective category.
-
-Complexity Analysis
-For each problem, I have included the time and space complexity analysis, ensuring that I’m optimizing solutions and learning to identify the best approach.
-
-Technologies Used
-C# for algorithmic solutions.
-
-SQL for database-related problems.
-
-Contact
-If you have any questions or feedback, feel free to reach out to me:
-
-LinkedIn: Your LinkedIn Profile
-
-Email: Your Email
+Feel free to reach out to me for any questions or discussions related to coding challenges, algorithms, or anything else!
