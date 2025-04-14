@@ -1,0 +1,7 @@
+SELECT DISTINCT email AS Email
+FROM (
+    SELECT email, COUNT(email) AS email_count
+    FROM person
+    GROUP BY email
+    HAVING COUNT(email) > 1
+) AS duplicate_emails;

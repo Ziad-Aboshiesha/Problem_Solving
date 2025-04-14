@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1887. Reduction Operations to Make the Arr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19007888-5C0E-4068-9DF0-E9FFD18C2AD2}|1887. Reduction Operations to Make the Arr\\1887. Reduction Operations to Make the Arr.csproj|d:\\self_study\\problem_solving\\leetcode\\medium\\1887. reduction operations to make the arr\\1887. reduction operations to make the arr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19007888-5C0E-4068-9DF0-E9FFD18C2AD2}|1887. Reduction Operations to Make the Arr\\1887. Reduction Operations to Make the Arr.csproj|solutionrelative:1887. reduction operations to make the arr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1887. Reduction Operations to Make the Arr\\1887. Reduction Operations to Make the Arr\\Program.cs",
+              "RelativeDocumentMoniker": "1887. Reduction Operations to Make the Arr\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1887. Reduction Operations to Make the Arr\\1887. Reduction Operations to Make the Arr\\Program.cs",
+              "RelativeToolTip": "1887. Reduction Operations to Make the Arr\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:32:20.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

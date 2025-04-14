@@ -1,0 +1,3 @@
+SELECT TOP 1 customer_number 
+FROM orders 
+ORDER BY count(customer_number) desc;

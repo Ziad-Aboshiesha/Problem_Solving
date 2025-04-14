@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3396. Minimum Number of Operations to Make", "3396. Minimum Number of Operations to Make\3396. Minimum Number of Operations to Make.csproj", "{0DBDE9F5-E987-486F-AFDB-1411A912629A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DBDE9F5-E987-486F-AFDB-1411A912629A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBDE9F5-E987-486F-AFDB-1411A912629A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBDE9F5-E987-486F-AFDB-1411A912629A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBDE9F5-E987-486F-AFDB-1411A912629A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10621148-7493-433C-A12B-DBE26C4C3366}
+	EndGlobalSection
+EndGlobal

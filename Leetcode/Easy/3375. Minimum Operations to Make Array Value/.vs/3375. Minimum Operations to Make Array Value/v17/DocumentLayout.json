@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\3375. Minimum Operations to Make Array Value\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{181F9D6E-AF1E-423D-A96D-639C566869FC}|3375. Minimum Operations to Make Array Value\\3375. Minimum Operations to Make Array Value.csproj|d:\\self_study\\problem_solving\\leetcode\\easy\\3375. minimum operations to make array value\\3375. minimum operations to make array value\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181F9D6E-AF1E-423D-A96D-639C566869FC}|3375. Minimum Operations to Make Array Value\\3375. Minimum Operations to Make Array Value.csproj|solutionrelative:3375. minimum operations to make array value\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\3375. Minimum Operations to Make Array Value\\3375. Minimum Operations to Make Array Value\\Program.cs",
+              "RelativeDocumentMoniker": "3375. Minimum Operations to Make Array Value\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\3375. Minimum Operations to Make Array Value\\3375. Minimum Operations to Make Array Value\\Program.cs",
+              "RelativeToolTip": "3375. Minimum Operations to Make Array Value\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:02:11.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

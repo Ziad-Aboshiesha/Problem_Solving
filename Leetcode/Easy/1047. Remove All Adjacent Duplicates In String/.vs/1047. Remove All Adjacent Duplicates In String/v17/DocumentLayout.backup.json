@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\1047. Remove All Adjacent Duplicates In String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAACBAD9-A90B-4F16-AE8C-BAD881CE1937}|1047. Remove All Adjacent Duplicates In String\\1047. Remove All Adjacent Duplicates In String.csproj|d:\\self_study\\problem_solving\\leetcode\\easy\\1047. remove all adjacent duplicates in string\\1047. remove all adjacent duplicates in string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAACBAD9-A90B-4F16-AE8C-BAD881CE1937}|1047. Remove All Adjacent Duplicates In String\\1047. Remove All Adjacent Duplicates In String.csproj|solutionrelative:1047. remove all adjacent duplicates in string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\1047. Remove All Adjacent Duplicates In String\\1047. Remove All Adjacent Duplicates In String\\Program.cs",
+              "RelativeDocumentMoniker": "1047. Remove All Adjacent Duplicates In String\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\1047. Remove All Adjacent Duplicates In String\\1047. Remove All Adjacent Duplicates In String\\Program.cs",
+              "RelativeToolTip": "1047. Remove All Adjacent Duplicates In String\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:32:38.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
