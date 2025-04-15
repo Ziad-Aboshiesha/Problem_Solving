@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\34. Find First and Last Position of Element in Sorted\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0933722-4EBD-4B3C-91E5-039D142B3668}|34. Find First and Last Position of Element in Sorted\\34. Find First and Last Position of Element in Sorted.csproj|d:\\self_study\\problem_solving\\leetcode\\medium\\34. find first and last position of element in sorted\\34. find first and last position of element in sorted\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0933722-4EBD-4B3C-91E5-039D142B3668}|34. Find First and Last Position of Element in Sorted\\34. Find First and Last Position of Element in Sorted.csproj|solutionrelative:34. find first and last position of element in sorted\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\34. Find First and Last Position of Element in Sorted\\34. Find First and Last Position of Element in Sorted\\Program.cs",
+              "RelativeDocumentMoniker": "34. Find First and Last Position of Element in Sorted\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\34. Find First and Last Position of Element in Sorted\\34. Find First and Last Position of Element in Sorted\\Program.cs",
+              "RelativeToolTip": "34. Find First and Last Position of Element in Sorted\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:08:23.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
