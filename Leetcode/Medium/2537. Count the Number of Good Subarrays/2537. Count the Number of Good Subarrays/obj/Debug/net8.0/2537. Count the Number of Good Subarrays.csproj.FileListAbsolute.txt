@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\bin\Debug\net8.0\2537. Count the Number of Good Subarrays.exe
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\bin\Debug\net8.0\2537. Count the Number of Good Subarrays.deps.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\bin\Debug\net8.0\2537. Count the Number of Good Subarrays.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\bin\Debug\net8.0\2537. Count the Number of Good Subarrays.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\bin\Debug\net8.0\2537. Count the Number of Good Subarrays.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\obj\Debug\net8.0\2537. Count the Number of Good Subarrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\obj\Debug\net8.0\2537. Count the Number of Good Subarrays.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\obj\Debug\net8.0\2537. Count the Number of Good Subarrays.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\obj\Debug\net8.0\2537. Count the Number of Good Subarrays.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\obj\Debug\net8.0\2537. Count the Number of Good Subarrays.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\obj\Debug\net8.0\2537. Count the Number of Good Subarrays.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\obj\Debug\net8.0\refint\2537. Count the Number of Good Subarrays.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\obj\Debug\net8.0\2537. Count the Number of Good Subarrays.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\obj\Debug\net8.0\2537. Count the Number of Good Subarrays.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2537. Count the Number of Good Subarrays\2537. Count the Number of Good Subarrays\obj\Debug\net8.0\ref\2537. Count the Number of Good Subarrays.dll
