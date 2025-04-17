@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2537. Count the Number of Good Subarrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69198afe9b8f0a9769a4f38013ff22c5fe0b2f42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e912db22c2e8da3877feddb37f4fdc8be519ba80")]
 [assembly: System.Reflection.AssemblyProductAttribute("2537. Count the Number of Good Subarrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2537. Count the Number of Good Subarrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
