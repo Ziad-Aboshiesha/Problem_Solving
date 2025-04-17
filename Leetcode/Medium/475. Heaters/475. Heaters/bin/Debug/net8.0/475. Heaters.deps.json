@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "475. Heaters/1.0.0": {
+        "runtime": {
+          "475. Heaters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "475. Heaters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

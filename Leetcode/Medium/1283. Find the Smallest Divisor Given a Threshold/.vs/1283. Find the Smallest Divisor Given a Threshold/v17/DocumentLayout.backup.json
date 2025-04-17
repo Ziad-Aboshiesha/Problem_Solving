@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1283. Find the Smallest Divisor Given a Threshold\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDCB01A-D604-47E2-89AA-B2A0CE1FE7DF}|1283. Find the Smallest Divisor Given a Threshold\\1283. Find the Smallest Divisor Given a Threshold.csproj|d:\\self_study\\problem_solving\\leetcode\\medium\\1283. find the smallest divisor given a threshold\\1283. find the smallest divisor given a threshold\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDCB01A-D604-47E2-89AA-B2A0CE1FE7DF}|1283. Find the Smallest Divisor Given a Threshold\\1283. Find the Smallest Divisor Given a Threshold.csproj|solutionrelative:1283. find the smallest divisor given a threshold\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1283. Find the Smallest Divisor Given a Threshold\\1283. Find the Smallest Divisor Given a Threshold\\Program.cs",
+              "RelativeDocumentMoniker": "1283. Find the Smallest Divisor Given a Threshold\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1283. Find the Smallest Divisor Given a Threshold\\1283. Find the Smallest Divisor Given a Threshold\\Program.cs*",
+              "RelativeToolTip": "1283. Find the Smallest Divisor Given a Threshold\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:12:31.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

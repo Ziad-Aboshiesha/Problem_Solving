@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\475. Heaters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD2159D-F25F-4D8E-B508-3C9D5BDACA1E}|475. Heaters\\475. Heaters.csproj|d:\\self_study\\problem_solving\\leetcode\\medium\\475. heaters\\475. heaters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD2159D-F25F-4D8E-B508-3C9D5BDACA1E}|475. Heaters\\475. Heaters.csproj|solutionrelative:475. heaters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\475. Heaters\\475. Heaters\\Program.cs",
+              "RelativeDocumentMoniker": "475. Heaters\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\475. Heaters\\475. Heaters\\Program.cs",
+              "RelativeToolTip": "475. Heaters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:24:32.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
