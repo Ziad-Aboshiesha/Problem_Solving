@@ -4,6 +4,8 @@ namespace _2537._Count_the_Number_of_Good_Subarrays
 {
     public class Solution
     {
+        // time  : O(n)
+        // space : O(1)
         public long CountGood(int[] nums, int k)
         {
             if(nums.Length<=1) return 0;
