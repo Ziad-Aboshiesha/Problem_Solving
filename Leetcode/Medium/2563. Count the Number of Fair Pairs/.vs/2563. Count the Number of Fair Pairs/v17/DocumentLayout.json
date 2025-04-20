@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2563. Count the Number of Fair Pairs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D6A7F-EA6E-42CF-88D9-52C6A001C315}|2563. Count the Number of Fair Pairs\\2563. Count the Number of Fair Pairs.csproj|d:\\self_study\\problem_solving\\leetcode\\medium\\2563. count the number of fair pairs\\2563. count the number of fair pairs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8D6A7F-EA6E-42CF-88D9-52C6A001C315}|2563. Count the Number of Fair Pairs\\2563. Count the Number of Fair Pairs.csproj|solutionrelative:2563. count the number of fair pairs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2563. Count the Number of Fair Pairs\\2563. Count the Number of Fair Pairs\\Program.cs",
+              "RelativeDocumentMoniker": "2563. Count the Number of Fair Pairs\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2563. Count the Number of Fair Pairs\\2563. Count the Number of Fair Pairs\\Program.cs",
+              "RelativeToolTip": "2563. Count the Number of Fair Pairs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T02:46:01.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

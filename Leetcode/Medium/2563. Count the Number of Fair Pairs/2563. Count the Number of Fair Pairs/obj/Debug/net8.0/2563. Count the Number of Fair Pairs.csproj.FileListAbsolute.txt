@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\bin\Debug\net8.0\2563. Count the Number of Fair Pairs.exe
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\bin\Debug\net8.0\2563. Count the Number of Fair Pairs.deps.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\bin\Debug\net8.0\2563. Count the Number of Fair Pairs.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\bin\Debug\net8.0\2563. Count the Number of Fair Pairs.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\bin\Debug\net8.0\2563. Count the Number of Fair Pairs.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\obj\Debug\net8.0\2563. Count the Number of Fair Pairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\obj\Debug\net8.0\2563. Count the Number of Fair Pairs.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\obj\Debug\net8.0\2563. Count the Number of Fair Pairs.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\obj\Debug\net8.0\2563. Count the Number of Fair Pairs.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\obj\Debug\net8.0\2563. Count the Number of Fair Pairs.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\obj\Debug\net8.0\2563. Count the Number of Fair Pairs.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\obj\Debug\net8.0\refint\2563. Count the Number of Fair Pairs.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\obj\Debug\net8.0\2563. Count the Number of Fair Pairs.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\obj\Debug\net8.0\2563. Count the Number of Fair Pairs.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2563. Count the Number of Fair Pairs\2563. Count the Number of Fair Pairs\obj\Debug\net8.0\ref\2563. Count the Number of Fair Pairs.dll

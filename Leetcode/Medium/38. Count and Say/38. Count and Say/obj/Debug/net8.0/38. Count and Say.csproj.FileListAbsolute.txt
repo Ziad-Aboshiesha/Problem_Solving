@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\bin\Debug\net8.0\38. Count and Say.exe
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\bin\Debug\net8.0\38. Count and Say.deps.json
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\bin\Debug\net8.0\38. Count and Say.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\bin\Debug\net8.0\38. Count and Say.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\bin\Debug\net8.0\38. Count and Say.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\obj\Debug\net8.0\38. Count and Say.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\obj\Debug\net8.0\38. Count and Say.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\obj\Debug\net8.0\38. Count and Say.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\obj\Debug\net8.0\38. Count and Say.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\obj\Debug\net8.0\38. Count and Say.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\obj\Debug\net8.0\38. Count and Say.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\obj\Debug\net8.0\refint\38. Count and Say.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\obj\Debug\net8.0\38. Count and Say.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\obj\Debug\net8.0\38. Count and Say.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\38. Count and Say\38. Count and Say\obj\Debug\net8.0\ref\38. Count and Say.dll
