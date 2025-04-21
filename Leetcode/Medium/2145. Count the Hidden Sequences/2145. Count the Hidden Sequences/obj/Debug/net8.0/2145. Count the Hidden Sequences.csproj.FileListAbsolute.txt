@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\bin\Debug\net8.0\2145. Count the Hidden Sequences.exe
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\bin\Debug\net8.0\2145. Count the Hidden Sequences.deps.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\bin\Debug\net8.0\2145. Count the Hidden Sequences.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\bin\Debug\net8.0\2145. Count the Hidden Sequences.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\bin\Debug\net8.0\2145. Count the Hidden Sequences.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\obj\Debug\net8.0\2145. Count the Hidden Sequences.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\obj\Debug\net8.0\2145. Count the Hidden Sequences.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\obj\Debug\net8.0\2145. Count the Hidden Sequences.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\obj\Debug\net8.0\2145. Count the Hidden Sequences.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\obj\Debug\net8.0\2145. Count the Hidden Sequences.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\obj\Debug\net8.0\2145. Count the Hidden Sequences.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\obj\Debug\net8.0\refint\2145. Count the Hidden Sequences.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\obj\Debug\net8.0\2145. Count the Hidden Sequences.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\obj\Debug\net8.0\2145. Count the Hidden Sequences.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2145. Count the Hidden Sequences\2145. Count the Hidden Sequences\obj\Debug\net8.0\ref\2145. Count the Hidden Sequences.dll

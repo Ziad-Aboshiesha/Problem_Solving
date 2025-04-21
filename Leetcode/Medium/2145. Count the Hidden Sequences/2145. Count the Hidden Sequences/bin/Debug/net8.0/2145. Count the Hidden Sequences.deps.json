@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2145. Count the Hidden Sequences/1.0.0": {
+        "runtime": {
+          "2145. Count the Hidden Sequences.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2145. Count the Hidden Sequences/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
