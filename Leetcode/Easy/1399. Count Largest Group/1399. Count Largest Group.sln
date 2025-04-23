@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1399. Count Largest Group", "1399. Count Largest Group\1399. Count Largest Group.csproj", "{2744B31F-B9D4-4EAD-84FA-D0A77707DB15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2744B31F-B9D4-4EAD-84FA-D0A77707DB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2744B31F-B9D4-4EAD-84FA-D0A77707DB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2744B31F-B9D4-4EAD-84FA-D0A77707DB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2744B31F-B9D4-4EAD-84FA-D0A77707DB15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {336E1B6D-7BB5-46FA-ADAE-A91837DF7277}
+	EndGlobalSection
+EndGlobal
