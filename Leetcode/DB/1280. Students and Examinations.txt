@@ -1,0 +1,7 @@
+WITH HELPER AS (
+    SELECT student_id , student_name , subject_name FROM Students AS S INNER JOIN Subjects AS SS  ON 1=1 
+   
+)
+SELECT H.student_id , H.student_name , H.subject_name, COUNT(E.student_id)   AS attended_exams  FROM  HELPER AS H LEFT JOIN Examinations  AS E ON H.student_id = E.student_id AND H.subject_name = E.subject_name
+GROUP BY  H.student_id , H.student_name , H.subject_name
+ORDER BY H.student_id  ,H.subject_name
