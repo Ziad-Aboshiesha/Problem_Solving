@@ -1,0 +1,13 @@
+SELECT P.product_id, 
+    ROUND( 
+        CASE WHEN SUM(U.units) IS NULL OR SUM(U.units) = 0 THEN 0 
+             ELSE 1.0 * SUM(P.price * U.units)/SUM(U.units) 
+        END,
+        2
+    ) AS average_price 
+FROM Prices AS P 
+LEFT JOIN UnitsSold AS U 
+    ON P.product_id = U.product_id 
+    AND U.purchase_date BETWEEN P.start_date AND P.end_date 
+GROUP BY P.product_id
+
