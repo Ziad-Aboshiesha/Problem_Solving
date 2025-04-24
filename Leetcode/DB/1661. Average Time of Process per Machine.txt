@@ -1,0 +1,7 @@
+WITH STARTTIME AS (
+    SELECT machine_id , SUM(timestamp) AS ST , COUNT(*) AS C FROM Activity WHERE activity_type = 'start' GROUP BY machine_id
+),
+ENDTIME AS (
+    SELECT machine_id , SUM(timestamp) AS ET FROM Activity WHERE activity_type = 'end' GROUP BY machine_id
+)
+SELECT S.machine_id , ROUND((ET - ST)/C,3)   AS processing_time FROM STARTTIME AS S INNER JOIN ENDTIME AS E ON S.machine_id = E.machine_id
