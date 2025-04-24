@@ -1,1 +1,3 @@
-select name from (select e1.name ,e1.id, count(e2.managerId)  as c from employee as e1 inner join employee as e2 on e1.id = e2.managerid group by e1.name , e1.id having  count(e2.managerId) >=5 )as test
+SELECT   E.name FROM Employee AS E  INNER JOIN Employee  AS E2 ON E.id = E2.managerId
+GROUP BY E.name, E.id
+HAVING COUNT(E2.managerId) >=5
