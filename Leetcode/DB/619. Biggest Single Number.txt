@@ -1,0 +1,11 @@
+SELECT 
+    CASE WHEN EXISTS (SELECT 1 FROM MyNumbers GROUP BY num HAVING COUNT(num) < 2)
+    THEN (
+        SELECT TOP 1 num
+        FROM MyNumbers 
+        GROUP BY num
+        HAVING COUNT(num) < 2
+        ORDER BY num DESC
+    )
+    ELSE NULL
+END AS num;

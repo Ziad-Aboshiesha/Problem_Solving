@@ -1,0 +1,11 @@
+WITH HELPER AS 
+(
+    SELECT * ,
+    ROW_NUMBER() OVER (PARTITION BY user_id, activity_date  ORDER BY activity_date ) AS rn
+      FROM Activity
+    WHERE activity_date  BETWEEN DATEADD(day, -29, '2019-07-27' ) AND   '2019-07-27'
+  
+)
+
+SELECT  activity_date AS day , COUNT(user_id) AS active_users FROM HELPER WHERE rn =1 
+GROUP BY activity_date

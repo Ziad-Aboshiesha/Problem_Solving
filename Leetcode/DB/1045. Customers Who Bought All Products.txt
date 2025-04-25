@@ -1,0 +1,12 @@
+/* Write your T-SQL query statement below */
+WITH H AS 
+(
+    SELECT * ,
+
+ROW_NUMBER() OVER (PARTITION BY customer_id, product_key ORDER BY customer_id) AS rn
+    FROM Customer
+)
+SELECT customer_id FROM H AS C INNER JOIN Product AS P ON P.product_key = C.product_key 
+WHERE rn =1 
+GROUP BY customer_id
+HAVING COUNT(customer_id) >= (SELECT COUNT(*) FROM Product)

@@ -1,0 +1,8 @@
+WITH HELPER AS 
+(
+    SELECT  DISTINCT teacher_id , subject_id FROM Teacher
+)
+SELECT teacher_id , COUNT(*)  AS cnt
+FROM HELPER
+
+GROUP BY teacher_id

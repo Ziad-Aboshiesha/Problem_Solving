@@ -1,0 +1,12 @@
+/* Write your T-SQL query statement below */
+WITH UNQ AS 
+(
+    SELECT * ,
+    ROW_NUMBER() OVER(PARTITION BY player_id ORDER BY event_date ) AS rn
+     FROM Activity 
+),
+TOt AS (
+    SELECT COUNT(*)  AS total FROM UNQ WHERE rn =1 
+)
+
+SELECT ROUND(1.0 * COUNT(*) / (SELECT total FROM TOt ),2)AS fraction FROM Activity  AS A INNER JOIN UNQ AS U ON A.player_id = U.player_id  AND A.event_date = DATEADD(day , 1, U.event_date )  WHERE rn = 1 

@@ -1,0 +1,13 @@
+WITH H1 AS 
+(
+    SELECT * ,
+    ROW_NUMBER() OVER (PARTITION BY product_id ORDER BY year) AS rn 
+    FROM Sales
+) ,
+H2 AS 
+(
+    SELECT S.product_id, S.year AS first_year, S.quantity , S.price FROM Sales AS S INNER JOIN H1 AS H ON 
+    S.product_id = H.product_id AND S.year = H.year  WHERE rn =1 
+)
+
+SELECT * FROM H2 
