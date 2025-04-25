@@ -1,0 +1,7 @@
+WITH
+HH AS 
+(
+    SELECT H.person_name, SUM(Q.weight ) AS s FROM Queue AS H INNER JOIN Queue AS Q ON H.turn >= Q.turn
+    GROUP BY H.person_name
+)
+SELECT TOP 1 person_name FROM HH  WHERE s<=1000 ORDER BY s DESC

@@ -1,0 +1,15 @@
+WITH H1 AS 
+(
+SELECT visited_on 
+FROM Customer
+WHERE DATEADD(day, -6, visited_on) IN (SELECT visited_on FROM Customer)
+GROUP BY visited_on 
+),
+H2 AS
+(
+    SELECT H1.visited_on, SUM(H3.amount)  AS amount , ROUND(  SUM(H3.amount)/7.0 ,2)  AS average_amount 
+     FROM H1 
+    INNER JOIN Customer AS H3 ON H1.visited_on >= H3.visited_on AND H3.visited_on >= DATEADD(day, -6, H1.visited_on )
+    GROUP BY H1.visited_on
+)
+SELECT * FROM H2 ORDER BY visited_on

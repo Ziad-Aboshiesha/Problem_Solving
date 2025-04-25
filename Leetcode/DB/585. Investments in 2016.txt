@@ -1,0 +1,19 @@
+/* Write your T-SQL query statement below */
+WITH 
+
+HH AS 
+(
+SELECT lat, lon
+FROM Insurance
+GROUP BY lat, lon
+HAVING COUNT(*) = 1
+
+),
+
+H AS (
+   SELECT tiv_2016 FROM Insurance AS I INNER JOIN HH ON I.lat=HH.lat AND I.lon = HH.lon     
+    WHERE tiv_2015 IN 
+    ( SELECT tiv_2015 FROM Insurance GROUP BY tiv_2015 HAVING COUNT(tiv_2015) >1)
+)
+
+SELECT ROUND(1.0 * SUM(H.tiv_2016 ),2) AS tiv_2016  FROM H

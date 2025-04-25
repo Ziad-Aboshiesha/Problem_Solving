@@ -1,0 +1,16 @@
+
+WITH H1 AS (
+SELECT TOP 1 name AS results FROM Users AS U INNER JOIN  MovieRating AS MR ON U.user_id = MR.user_id GROUP BY name ORDER BY COUNT(MR.user_id) DESC , name ASC
+),
+H2 AS (
+SELECT TOP 1 title AS results FROM Movies AS M INNER JOIN  MovieRating AS MR ON M.movie_id = MR.movie_id 
+WHERE created_at BETWEEN '2020-02-01'  AND '2020-02-29'
+GROUP BY title
+ORDER BY AVG(1.0 *rating) DESC, title ASC
+
+)
+SELECT * FROM H1
+UNION  ALL
+SELECT * FROM H2
+
+
