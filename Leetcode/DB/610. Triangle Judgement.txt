@@ -1,0 +1,9 @@
+SELECT x, y, z , (
+    CASE 
+        WHEN  x>0 AND y>0 AND z > 0 AND z>=x AND z>=y AND z<x+y   THEN 'Yes'
+        WHEN  x>0 AND y>0 AND z > 0 AND y>=z AND y>=x AND y<x+z   THEN 'Yes' 
+        WHEN  x>0 AND y>0 AND z > 0 AND x>=z AND x>=y AND x<z+y   THEN 'Yes' 
+        ELSE 'No'
+     END
+    ) 
+    AS triangle FROM Triangle
