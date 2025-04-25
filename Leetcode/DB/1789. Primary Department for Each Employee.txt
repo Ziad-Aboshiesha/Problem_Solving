@@ -1,0 +1,9 @@
+WITH HELP AS 
+(
+    SELECT *,
+
+    ROW_NUMBER() OVER (PARTITION BY employee_id ORDER BY primary_flag DESC) AS rn
+    FROM Employee
+)
+
+SELECT employee_id , department_id FROM HELP WHERE rn = 1 
