@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "3392. Count Subarrays of Length/1.0.0": {
+        "runtime": {
+          "3392. Count Subarrays of Length.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3392. Count Subarrays of Length/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
