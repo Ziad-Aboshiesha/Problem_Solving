@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\bin\Debug\net8.0\2962. Count Subarrays Where Max.exe
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\bin\Debug\net8.0\2962. Count Subarrays Where Max.deps.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\bin\Debug\net8.0\2962. Count Subarrays Where Max.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\bin\Debug\net8.0\2962. Count Subarrays Where Max.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\bin\Debug\net8.0\2962. Count Subarrays Where Max.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\obj\Debug\net8.0\2962. Count Subarrays Where Max.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\obj\Debug\net8.0\2962. Count Subarrays Where Max.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\obj\Debug\net8.0\2962. Count Subarrays Where Max.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\obj\Debug\net8.0\2962. Count Subarrays Where Max.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\obj\Debug\net8.0\2962. Count Subarrays Where Max.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\obj\Debug\net8.0\2962. Count Subarrays Where Max.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\obj\Debug\net8.0\refint\2962. Count Subarrays Where Max.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\obj\Debug\net8.0\2962. Count Subarrays Where Max.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\obj\Debug\net8.0\2962. Count Subarrays Where Max.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2962. Count Subarrays Where Max\2962. Count Subarrays Where Max\obj\Debug\net8.0\ref\2962. Count Subarrays Where Max.dll
