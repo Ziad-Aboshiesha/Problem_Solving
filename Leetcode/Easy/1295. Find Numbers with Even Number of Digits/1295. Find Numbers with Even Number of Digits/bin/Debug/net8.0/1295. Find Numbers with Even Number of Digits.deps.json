@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "1295. Find Numbers with Even Number of Digits/1.0.0": {
+        "runtime": {
+          "1295. Find Numbers with Even Number of Digits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1295. Find Numbers with Even Number of Digits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
