@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\bin\Debug\net8.0\1128. Number of Equivalent Domino Pairs.exe
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\bin\Debug\net8.0\1128. Number of Equivalent Domino Pairs.deps.json
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\bin\Debug\net8.0\1128. Number of Equivalent Domino Pairs.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\bin\Debug\net8.0\1128. Number of Equivalent Domino Pairs.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\bin\Debug\net8.0\1128. Number of Equivalent Domino Pairs.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\obj\Debug\net8.0\1128. Number of Equivalent Domino Pairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\obj\Debug\net8.0\1128. Number of Equivalent Domino Pairs.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\obj\Debug\net8.0\1128. Number of Equivalent Domino Pairs.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\obj\Debug\net8.0\1128. Number of Equivalent Domino Pairs.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\obj\Debug\net8.0\1128. Number of Equivalent Domino Pairs.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\obj\Debug\net8.0\1128. Number of Equivalent Domino Pairs.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\obj\Debug\net8.0\refint\1128. Number of Equivalent Domino Pairs.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\obj\Debug\net8.0\1128. Number of Equivalent Domino Pairs.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\obj\Debug\net8.0\1128. Number of Equivalent Domino Pairs.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\1128. Number of Equivalent Domino Pairs\1128. Number of Equivalent Domino Pairs\obj\Debug\net8.0\ref\1128. Number of Equivalent Domino Pairs.dll
