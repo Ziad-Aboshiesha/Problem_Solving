@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2120. Execution of All Suffix/1.0.0": {
+        "runtime": {
+          "2120. Execution of All Suffix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2120. Execution of All Suffix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
