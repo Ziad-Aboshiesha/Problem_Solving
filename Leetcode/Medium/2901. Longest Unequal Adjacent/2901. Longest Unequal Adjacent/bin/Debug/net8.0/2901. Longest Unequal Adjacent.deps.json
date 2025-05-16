@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2901. Longest Unequal Adjacent/1.0.0": {
+        "runtime": {
+          "2901. Longest Unequal Adjacent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2901. Longest Unequal Adjacent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
