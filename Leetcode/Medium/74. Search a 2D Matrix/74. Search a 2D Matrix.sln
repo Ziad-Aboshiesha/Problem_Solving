@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "74. Search a 2D Matrix", "74. Search a 2D Matrix\74. Search a 2D Matrix.csproj", "{34D15540-20CC-4C0B-805E-B0A8522AA7A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D15540-20CC-4C0B-805E-B0A8522AA7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D15540-20CC-4C0B-805E-B0A8522AA7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D15540-20CC-4C0B-805E-B0A8522AA7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D15540-20CC-4C0B-805E-B0A8522AA7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C45A28E-0EF6-4809-914C-840C597665A3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\74. Search a 2D Matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D15540-20CC-4C0B-805E-B0A8522AA7A1}|74. Search a 2D Matrix\\74. Search a 2D Matrix.csproj|d:\\self_study\\problem_solving\\leetcode\\medium\\74. search a 2d matrix\\74. search a 2d matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D15540-20CC-4C0B-805E-B0A8522AA7A1}|74. Search a 2D Matrix\\74. Search a 2D Matrix.csproj|solutionrelative:74. search a 2d matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\74. Search a 2D Matrix\\74. Search a 2D Matrix\\Program.cs",
+              "RelativeDocumentMoniker": "74. Search a 2D Matrix\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\74. Search a 2D Matrix\\74. Search a 2D Matrix\\Program.cs",
+              "RelativeToolTip": "74. Search a 2D Matrix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T02:31:15.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

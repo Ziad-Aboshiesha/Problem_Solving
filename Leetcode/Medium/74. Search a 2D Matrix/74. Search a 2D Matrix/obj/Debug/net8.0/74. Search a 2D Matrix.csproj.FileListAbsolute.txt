@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\bin\Debug\net8.0\74. Search a 2D Matrix.exe
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\bin\Debug\net8.0\74. Search a 2D Matrix.deps.json
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\bin\Debug\net8.0\74. Search a 2D Matrix.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\bin\Debug\net8.0\74. Search a 2D Matrix.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\bin\Debug\net8.0\74. Search a 2D Matrix.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\obj\Debug\net8.0\74. Search a 2D Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\obj\Debug\net8.0\74. Search a 2D Matrix.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\obj\Debug\net8.0\74. Search a 2D Matrix.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\obj\Debug\net8.0\74. Search a 2D Matrix.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\obj\Debug\net8.0\74. Search a 2D Matrix.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\obj\Debug\net8.0\74. Search a 2D Matrix.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\obj\Debug\net8.0\refint\74. Search a 2D Matrix.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\obj\Debug\net8.0\74. Search a 2D Matrix.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\obj\Debug\net8.0\74. Search a 2D Matrix.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\74. Search a 2D Matrix\74. Search a 2D Matrix\obj\Debug\net8.0\ref\74. Search a 2D Matrix.dll
