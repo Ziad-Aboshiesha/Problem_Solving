@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2012. Sum of Beauty in the Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6A17DC-2A2F-45E9-AF71-625282D0585B}|2012. Sum of Beauty in the Array\\2012. Sum of Beauty in the Array.csproj|d:\\self_study\\problem_solving\\leetcode\\medium\\2012. sum of beauty in the array\\2012. sum of beauty in the array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6A17DC-2A2F-45E9-AF71-625282D0585B}|2012. Sum of Beauty in the Array\\2012. Sum of Beauty in the Array.csproj|solutionrelative:2012. sum of beauty in the array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2012. Sum of Beauty in the Array\\2012. Sum of Beauty in the Array\\Program.cs",
+              "RelativeDocumentMoniker": "2012. Sum of Beauty in the Array\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2012. Sum of Beauty in the Array\\2012. Sum of Beauty in the Array\\Program.cs*",
+              "RelativeToolTip": "2012. Sum of Beauty in the Array\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:54:10.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

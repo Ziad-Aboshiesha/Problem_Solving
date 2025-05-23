@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\bin\Debug\net8.0\2012. Sum of Beauty in the Array.exe
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\bin\Debug\net8.0\2012. Sum of Beauty in the Array.deps.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\bin\Debug\net8.0\2012. Sum of Beauty in the Array.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\bin\Debug\net8.0\2012. Sum of Beauty in the Array.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\bin\Debug\net8.0\2012. Sum of Beauty in the Array.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\obj\Debug\net8.0\2012. Sum of Beauty in the Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\obj\Debug\net8.0\2012. Sum of Beauty in the Array.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\obj\Debug\net8.0\2012. Sum of Beauty in the Array.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\obj\Debug\net8.0\2012. Sum of Beauty in the Array.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\obj\Debug\net8.0\2012. Sum of Beauty in the Array.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\obj\Debug\net8.0\2012. Sum of Beauty in the Array.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\obj\Debug\net8.0\refint\2012. Sum of Beauty in the Array.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\obj\Debug\net8.0\2012. Sum of Beauty in the Array.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\obj\Debug\net8.0\2012. Sum of Beauty in the Array.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2012. Sum of Beauty in the Array\2012. Sum of Beauty in the Array\obj\Debug\net8.0\ref\2012. Sum of Beauty in the Array.dll
