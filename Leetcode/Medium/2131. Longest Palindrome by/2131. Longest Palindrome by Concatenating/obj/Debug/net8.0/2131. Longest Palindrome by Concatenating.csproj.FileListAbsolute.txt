@@ -1,0 +1,15 @@
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/bin/Debug/net8.0/2131. Longest Palindrome by Concatenating
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/bin/Debug/net8.0/2131. Longest Palindrome by Concatenating.deps.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/bin/Debug/net8.0/2131. Longest Palindrome by Concatenating.runtimeconfig.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/bin/Debug/net8.0/2131. Longest Palindrome by Concatenating.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/bin/Debug/net8.0/2131. Longest Palindrome by Concatenating.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/obj/Debug/net8.0/2131. Longest Palindrome by Concatenating.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/obj/Debug/net8.0/2131. Longest Palindrome by Concatenating.AssemblyInfoInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/obj/Debug/net8.0/2131. Longest Palindrome by Concatenating.AssemblyInfo.cs
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/obj/Debug/net8.0/2131. Longest Palindrome by Concatenating.csproj.CoreCompileInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/obj/Debug/net8.0/2131. Longest Palindrome by Concatenating.sourcelink.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/obj/Debug/net8.0/2131. Longest Palindrome by Concatenating.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/obj/Debug/net8.0/refint/2131. Longest Palindrome by Concatenating.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/obj/Debug/net8.0/2131. Longest Palindrome by Concatenating.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/obj/Debug/net8.0/2131. Longest Palindrome by Concatenating.genruntimeconfig.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2131. Longest Palindrome by/2131. Longest Palindrome by Concatenating/obj/Debug/net8.0/ref/2131. Longest Palindrome by Concatenating.dll

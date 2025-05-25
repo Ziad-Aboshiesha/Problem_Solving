@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2131. Longest Palindrome by Concatenating/1.0.0": {
+        "runtime": {
+          "2131. Longest Palindrome by Concatenating.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2131. Longest Palindrome by Concatenating/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
