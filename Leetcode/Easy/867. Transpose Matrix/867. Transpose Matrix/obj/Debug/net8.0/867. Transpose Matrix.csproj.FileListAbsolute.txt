@@ -1,0 +1,15 @@
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/bin/Debug/net8.0/867. Transpose Matrix
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/bin/Debug/net8.0/867. Transpose Matrix.deps.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/bin/Debug/net8.0/867. Transpose Matrix.runtimeconfig.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/bin/Debug/net8.0/867. Transpose Matrix.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/bin/Debug/net8.0/867. Transpose Matrix.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/obj/Debug/net8.0/867. Transpose Matrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/obj/Debug/net8.0/867. Transpose Matrix.AssemblyInfoInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/obj/Debug/net8.0/867. Transpose Matrix.AssemblyInfo.cs
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/obj/Debug/net8.0/867. Transpose Matrix.csproj.CoreCompileInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/obj/Debug/net8.0/867. Transpose Matrix.sourcelink.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/obj/Debug/net8.0/867. Transpose Matrix.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/obj/Debug/net8.0/refint/867. Transpose Matrix.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/obj/Debug/net8.0/867. Transpose Matrix.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/obj/Debug/net8.0/867. Transpose Matrix.genruntimeconfig.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/867. Transpose Matrix/867. Transpose Matrix/obj/Debug/net8.0/ref/867. Transpose Matrix.dll
