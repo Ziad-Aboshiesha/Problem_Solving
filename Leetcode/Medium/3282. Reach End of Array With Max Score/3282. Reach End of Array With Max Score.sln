@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3282. Reach End of Array With Max Score", "3282. Reach End of Array With Max Score\3282. Reach End of Array With Max Score.csproj", "{7B91CA16-E976-47ED-87F1-647F232CFC72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B91CA16-E976-47ED-87F1-647F232CFC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B91CA16-E976-47ED-87F1-647F232CFC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B91CA16-E976-47ED-87F1-647F232CFC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B91CA16-E976-47ED-87F1-647F232CFC72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DCBF34A-3E98-4B2C-BC17-C2B9F9BCB885}
+	EndGlobalSection
+EndGlobal

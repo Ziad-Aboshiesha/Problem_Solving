@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2131. Longest Palindrome by\\2131. Longest Palindrome by Concatenating\\2131. Longest Palindrome by Concatenating.csproj",
-      "projectName": "2131. Longest Palindrome by Concatenating",
-      "projectPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2131. Longest Palindrome by\\2131. Longest Palindrome by Concatenating\\2131. Longest Palindrome by Concatenating.csproj",
+      "projectUniqueName": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\3282. Reach End of Array With Max Score\\3282. Reach End of Array With Max Score\\3282. Reach End of Array With Max Score.csproj",
+      "projectName": "3282. Reach End of Array With Max Score",
+      "projectPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\3282. Reach End of Array With Max Score\\3282. Reach End of Array With Max Score\\3282. Reach End of Array With Max Score.csproj",
       "packagesPath": "C:\\Users\\ziada\\.nuget\\packages\\",
-      "outputPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2131. Longest Palindrome by\\2131. Longest Palindrome by Concatenating\\obj\\",
+      "outputPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\3282. Reach End of Array With Max Score\\3282. Reach End of Array With Max Score\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
