@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "3365. Rearrange K Substrings/1.0.0": {
+        "runtime": {
+          "3365. Rearrange K Substrings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3365. Rearrange K Substrings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
