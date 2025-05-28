@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "191. Number of 1 Bits/1.0.0": {
+        "runtime": {
+          "191. Number of 1 Bits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "191. Number of 1 Bits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/bin/Debug/net8.0/191. Number of 1 Bits
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/bin/Debug/net8.0/191. Number of 1 Bits.deps.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/bin/Debug/net8.0/191. Number of 1 Bits.runtimeconfig.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/bin/Debug/net8.0/191. Number of 1 Bits.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/bin/Debug/net8.0/191. Number of 1 Bits.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/obj/Debug/net8.0/191. Number of 1 Bits.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/obj/Debug/net8.0/191. Number of 1 Bits.AssemblyInfoInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/obj/Debug/net8.0/191. Number of 1 Bits.AssemblyInfo.cs
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/obj/Debug/net8.0/191. Number of 1 Bits.csproj.CoreCompileInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/obj/Debug/net8.0/191. Number of 1 Bits.sourcelink.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/obj/Debug/net8.0/191. Number of 1 Bits.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/obj/Debug/net8.0/refint/191. Number of 1 Bits.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/obj/Debug/net8.0/191. Number of 1 Bits.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/obj/Debug/net8.0/191. Number of 1 Bits.genruntimeconfig.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/191. Number of 1 Bits/191. Number of 1 Bits/obj/Debug/net8.0/ref/191. Number of 1 Bits.dll
