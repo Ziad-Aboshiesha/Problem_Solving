@@ -1,0 +1,15 @@
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/bin/Debug/net8.0/2181. Merge Nodes in Between Zeros
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/bin/Debug/net8.0/2181. Merge Nodes in Between Zeros.deps.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/bin/Debug/net8.0/2181. Merge Nodes in Between Zeros.runtimeconfig.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/bin/Debug/net8.0/2181. Merge Nodes in Between Zeros.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/bin/Debug/net8.0/2181. Merge Nodes in Between Zeros.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/obj/Debug/net8.0/2181. Merge Nodes in Between Zeros.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/obj/Debug/net8.0/2181. Merge Nodes in Between Zeros.AssemblyInfoInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/obj/Debug/net8.0/2181. Merge Nodes in Between Zeros.AssemblyInfo.cs
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/obj/Debug/net8.0/2181. Merge Nodes in Between Zeros.csproj.CoreCompileInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/obj/Debug/net8.0/2181. Merge Nodes in Between Zeros.sourcelink.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/obj/Debug/net8.0/2181. Merge Nodes in Between Zeros.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/obj/Debug/net8.0/refint/2181. Merge Nodes in Between Zeros.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/obj/Debug/net8.0/2181. Merge Nodes in Between Zeros.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/obj/Debug/net8.0/2181. Merge Nodes in Between Zeros.genruntimeconfig.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2181/2181. Merge Nodes in Between Zeros/obj/Debug/net8.0/ref/2181. Merge Nodes in Between Zeros.dll
