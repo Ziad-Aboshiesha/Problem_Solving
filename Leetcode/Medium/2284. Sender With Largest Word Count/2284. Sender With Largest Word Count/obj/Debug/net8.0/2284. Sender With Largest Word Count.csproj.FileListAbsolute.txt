@@ -1,0 +1,15 @@
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/bin/Debug/net8.0/2284. Sender With Largest Word Count
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/bin/Debug/net8.0/2284. Sender With Largest Word Count.deps.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/bin/Debug/net8.0/2284. Sender With Largest Word Count.runtimeconfig.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/bin/Debug/net8.0/2284. Sender With Largest Word Count.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/bin/Debug/net8.0/2284. Sender With Largest Word Count.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/obj/Debug/net8.0/2284. Sender With Largest Word Count.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/obj/Debug/net8.0/2284. Sender With Largest Word Count.AssemblyInfoInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/obj/Debug/net8.0/2284. Sender With Largest Word Count.AssemblyInfo.cs
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/obj/Debug/net8.0/2284. Sender With Largest Word Count.csproj.CoreCompileInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/obj/Debug/net8.0/2284. Sender With Largest Word Count.sourcelink.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/obj/Debug/net8.0/2284. Sender With Largest Word Count.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/obj/Debug/net8.0/refint/2284. Sender With Largest Word Count.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/obj/Debug/net8.0/2284. Sender With Largest Word Count.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/obj/Debug/net8.0/2284. Sender With Largest Word Count.genruntimeconfig.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2284. Sender With Largest Word Count/2284. Sender With Largest Word Count/obj/Debug/net8.0/ref/2284. Sender With Largest Word Count.dll
