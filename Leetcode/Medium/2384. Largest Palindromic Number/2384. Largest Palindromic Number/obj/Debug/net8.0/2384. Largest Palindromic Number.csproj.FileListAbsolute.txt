@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\bin\Debug\net8.0\2384. Largest Palindromic Number.exe
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\bin\Debug\net8.0\2384. Largest Palindromic Number.deps.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\bin\Debug\net8.0\2384. Largest Palindromic Number.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\bin\Debug\net8.0\2384. Largest Palindromic Number.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\bin\Debug\net8.0\2384. Largest Palindromic Number.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\obj\Debug\net8.0\2384. Largest Palindromic Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\obj\Debug\net8.0\2384. Largest Palindromic Number.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\obj\Debug\net8.0\2384. Largest Palindromic Number.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\obj\Debug\net8.0\2384. Largest Palindromic Number.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\obj\Debug\net8.0\2384. Largest Palindromic Number.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\obj\Debug\net8.0\2384. Largest Palindromic Number.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\obj\Debug\net8.0\refint\2384. Largest Palindromic Number.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\obj\Debug\net8.0\2384. Largest Palindromic Number.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\obj\Debug\net8.0\2384. Largest Palindromic Number.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2384. Largest Palindromic Number\2384. Largest Palindromic Number\obj\Debug\net8.0\ref\2384. Largest Palindromic Number.dll
