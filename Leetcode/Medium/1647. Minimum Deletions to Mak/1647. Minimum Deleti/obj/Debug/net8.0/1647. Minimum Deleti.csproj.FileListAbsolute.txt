@@ -1,0 +1,15 @@
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/bin/Debug/net8.0/1647. Minimum Deleti
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/bin/Debug/net8.0/1647. Minimum Deleti.deps.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/bin/Debug/net8.0/1647. Minimum Deleti.runtimeconfig.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/bin/Debug/net8.0/1647. Minimum Deleti.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/bin/Debug/net8.0/1647. Minimum Deleti.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/obj/Debug/net8.0/1647. Minimum Deleti.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/obj/Debug/net8.0/1647. Minimum Deleti.AssemblyInfoInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/obj/Debug/net8.0/1647. Minimum Deleti.AssemblyInfo.cs
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/obj/Debug/net8.0/1647. Minimum Deleti.csproj.CoreCompileInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/obj/Debug/net8.0/1647. Minimum Deleti.sourcelink.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/obj/Debug/net8.0/1647. Minimum Deleti.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/obj/Debug/net8.0/refint/1647. Minimum Deleti.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/obj/Debug/net8.0/1647. Minimum Deleti.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/obj/Debug/net8.0/1647. Minimum Deleti.genruntimeconfig.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/1647. Minimum Deletions to Mak/1647. Minimum Deleti/obj/Debug/net8.0/ref/1647. Minimum Deleti.dll
