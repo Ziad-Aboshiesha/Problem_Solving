@@ -1,0 +1,15 @@
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/bin/Debug/net8.0/2170. Minimum Operations to Make the
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/bin/Debug/net8.0/2170. Minimum Operations to Make the.deps.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/bin/Debug/net8.0/2170. Minimum Operations to Make the.runtimeconfig.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/bin/Debug/net8.0/2170. Minimum Operations to Make the.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/bin/Debug/net8.0/2170. Minimum Operations to Make the.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/obj/Debug/net8.0/2170. Minimum Operations to Make the.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/obj/Debug/net8.0/2170. Minimum Operations to Make the.AssemblyInfoInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/obj/Debug/net8.0/2170. Minimum Operations to Make the.AssemblyInfo.cs
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/obj/Debug/net8.0/2170. Minimum Operations to Make the.csproj.CoreCompileInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/obj/Debug/net8.0/2170. Minimum Operations to Make the.sourcelink.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/obj/Debug/net8.0/2170. Minimum Operations to Make the.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/obj/Debug/net8.0/refint/2170. Minimum Operations to Make the.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/obj/Debug/net8.0/2170. Minimum Operations to Make the.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/obj/Debug/net8.0/2170. Minimum Operations to Make the.genruntimeconfig.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/2170. Minimum Operations to Make/2170. Minimum Operations to Make the/obj/Debug/net8.0/ref/2170. Minimum Operations to Make the.dll
