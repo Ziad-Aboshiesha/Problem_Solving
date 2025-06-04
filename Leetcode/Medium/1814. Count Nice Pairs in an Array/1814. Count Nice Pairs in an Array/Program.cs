@@ -2,7 +2,8 @@
 {
     public int CountNicePairs(int[] nums)
     {
-        int count = 0;
+        long count = 0;
+        const int MOD = 1_000_000_007;
         Dictionary<int, int> pairs = new();
         // int[] rev = new int[nums.Length];
         for (int i = 0; i < nums.Length; i++)
@@ -15,10 +16,11 @@
 
         foreach (var item in pairs)
         {
-            count += item.Value * (item.Value - 1) / 2;
+            count = (count + ((long)item.Value * (item.Value - 1) / 2) % MOD) % MOD;
+
         }
 
-        return count;
+        return (int)count;
     }
     private int reverse(int x)
     {
