@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("319. Bulb switch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8a2d2b44c53cd846c260a9a80d6d83f061578e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e58c129f37b2b7325bac1bdfbf83e697759aeb00")]
 [assembly: System.Reflection.AssemblyProductAttribute("319. Bulb switch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("319. Bulb switch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/bin/Debug/net8.0/725. Split Linked List in Parts
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/bin/Debug/net8.0/725. Split Linked List in Parts.deps.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/bin/Debug/net8.0/725. Split Linked List in Parts.runtimeconfig.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/bin/Debug/net8.0/725. Split Linked List in Parts.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/bin/Debug/net8.0/725. Split Linked List in Parts.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/obj/Debug/net8.0/725. Split Linked List in Parts.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/obj/Debug/net8.0/725. Split Linked List in Parts.AssemblyInfoInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/obj/Debug/net8.0/725. Split Linked List in Parts.AssemblyInfo.cs
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/obj/Debug/net8.0/725. Split Linked List in Parts.csproj.CoreCompileInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/obj/Debug/net8.0/725. Split Linked List in Parts.sourcelink.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/obj/Debug/net8.0/725. Split Linked List in Parts.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/obj/Debug/net8.0/refint/725. Split Linked List in Parts.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/obj/Debug/net8.0/725. Split Linked List in Parts.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/obj/Debug/net8.0/725. Split Linked List in Parts.genruntimeconfig.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/725. Split Linked List in Parts/725. Split Linked List in Parts/obj/Debug/net8.0/ref/725. Split Linked List in Parts.dll
