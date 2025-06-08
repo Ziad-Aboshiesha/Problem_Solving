@@ -1,0 +1,15 @@
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/bin/Debug/net8.0/386. Lexicographical Numbers
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/bin/Debug/net8.0/386. Lexicographical Numbers.deps.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/bin/Debug/net8.0/386. Lexicographical Numbers.runtimeconfig.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/bin/Debug/net8.0/386. Lexicographical Numbers.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/bin/Debug/net8.0/386. Lexicographical Numbers.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/obj/Debug/net8.0/386. Lexicographical Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/obj/Debug/net8.0/386. Lexicographical Numbers.AssemblyInfoInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/obj/Debug/net8.0/386. Lexicographical Numbers.AssemblyInfo.cs
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/obj/Debug/net8.0/386. Lexicographical Numbers.csproj.CoreCompileInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/obj/Debug/net8.0/386. Lexicographical Numbers.sourcelink.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/obj/Debug/net8.0/386. Lexicographical Numbers.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/obj/Debug/net8.0/refint/386. Lexicographical Numbers.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/obj/Debug/net8.0/386. Lexicographical Numbers.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/obj/Debug/net8.0/386. Lexicographical Numbers.genruntimeconfig.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/386. Lexicographical Numbers/386. Lexicographical Numbers/obj/Debug/net8.0/ref/386. Lexicographical Numbers.dll
