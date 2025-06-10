@@ -1,0 +1,15 @@
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/bin/Debug/net8.0/3442. Maximum Differenc
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/bin/Debug/net8.0/3442. Maximum Differenc.deps.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/bin/Debug/net8.0/3442. Maximum Differenc.runtimeconfig.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/bin/Debug/net8.0/3442. Maximum Differenc.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/bin/Debug/net8.0/3442. Maximum Differenc.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/obj/Debug/net8.0/3442. Maximum Differenc.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/obj/Debug/net8.0/3442. Maximum Differenc.AssemblyInfoInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/obj/Debug/net8.0/3442. Maximum Differenc.AssemblyInfo.cs
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/obj/Debug/net8.0/3442. Maximum Differenc.csproj.CoreCompileInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/obj/Debug/net8.0/3442. Maximum Differenc.sourcelink.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/obj/Debug/net8.0/3442. Maximum Differenc.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/obj/Debug/net8.0/refint/3442. Maximum Differenc.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/obj/Debug/net8.0/3442. Maximum Differenc.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/obj/Debug/net8.0/3442. Maximum Differenc.genruntimeconfig.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Easy/3442. Maximum Difference Between/3442. Maximum Differenc/obj/Debug/net8.0/ref/3442. Maximum Differenc.dll

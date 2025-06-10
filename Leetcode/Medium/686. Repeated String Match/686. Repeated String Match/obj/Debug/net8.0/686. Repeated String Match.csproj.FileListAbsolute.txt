@@ -1,0 +1,15 @@
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/bin/Debug/net8.0/686. Repeated String Match
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/bin/Debug/net8.0/686. Repeated String Match.deps.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/bin/Debug/net8.0/686. Repeated String Match.runtimeconfig.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/bin/Debug/net8.0/686. Repeated String Match.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/bin/Debug/net8.0/686. Repeated String Match.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/obj/Debug/net8.0/686. Repeated String Match.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/obj/Debug/net8.0/686. Repeated String Match.AssemblyInfoInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/obj/Debug/net8.0/686. Repeated String Match.AssemblyInfo.cs
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/obj/Debug/net8.0/686. Repeated String Match.csproj.CoreCompileInputs.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/obj/Debug/net8.0/686. Repeated String Match.sourcelink.json
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/obj/Debug/net8.0/686. Repeated String Match.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/obj/Debug/net8.0/refint/686. Repeated String Match.dll
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/obj/Debug/net8.0/686. Repeated String Match.pdb
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/obj/Debug/net8.0/686. Repeated String Match.genruntimeconfig.cache
+/home/ziad/Ziad/Problem_Solving/Leetcode/Medium/686. Repeated String Match/686. Repeated String Match/obj/Debug/net8.0/ref/686. Repeated String Match.dll

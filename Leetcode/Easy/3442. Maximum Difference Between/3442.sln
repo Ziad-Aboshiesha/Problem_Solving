@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3442. Maximum Differenc", "3442. Maximum Differenc\3442. Maximum Differenc.csproj", "{F999F283-B1B5-49B3-9DA4-695142BE7DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F999F283-B1B5-49B3-9DA4-695142BE7DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F999F283-B1B5-49B3-9DA4-695142BE7DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F999F283-B1B5-49B3-9DA4-695142BE7DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F999F283-B1B5-49B3-9DA4-695142BE7DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
