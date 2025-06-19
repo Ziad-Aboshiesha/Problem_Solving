@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2294. Partition Array Such That Maximu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1db93442c2aa30bb81f954b395ac5e3af50393b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebc5ba58002a4708d4392fcbaaf45346bc8ba90d")]
 [assembly: System.Reflection.AssemblyProductAttribute("2294. Partition Array Such That Maximu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2294. Partition Array Such That Maximu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
