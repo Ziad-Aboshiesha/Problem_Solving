@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1865. Finding Pairs With a Certain Sum", "1865. Finding Pairs With a Certain Sum\1865. Finding Pairs With a Certain Sum.csproj", "{4080A7EF-5785-47C4-AAC2-4B6224A78ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4080A7EF-5785-47C4-AAC2-4B6224A78ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4080A7EF-5785-47C4-AAC2-4B6224A78ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4080A7EF-5785-47C4-AAC2-4B6224A78ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4080A7EF-5785-47C4-AAC2-4B6224A78ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB2CB3BC-6509-42F9-A43C-1E676A7589C9}
+	EndGlobalSection
+EndGlobal
