@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\bin\Debug\net8.0\2520. Count the Digits That Divide a Number.exe
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\bin\Debug\net8.0\2520. Count the Digits That Divide a Number.deps.json
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\bin\Debug\net8.0\2520. Count the Digits That Divide a Number.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\bin\Debug\net8.0\2520. Count the Digits That Divide a Number.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\bin\Debug\net8.0\2520. Count the Digits That Divide a Number.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\obj\Debug\net8.0\2520. Count the Digits That Divide a Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\obj\Debug\net8.0\2520. Count the Digits That Divide a Number.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\obj\Debug\net8.0\2520. Count the Digits That Divide a Number.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\obj\Debug\net8.0\2520. Count the Digits That Divide a Number.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\obj\Debug\net8.0\2520. Count the Digits That Divide a Number.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\obj\Debug\net8.0\2520. Count the Digits That Divide a Number.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\obj\Debug\net8.0\refint\2520. Count the Digits That Divide a Number.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\obj\Debug\net8.0\2520. Count the Digits That Divide a Number.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\obj\Debug\net8.0\2520. Count the Digits That Divide a Number.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\2520. Count the Digits That Divide a Number\2520. Count the Digits That Divide a Number\obj\Debug\net8.0\ref\2520. Count the Digits That Divide a Number.dll
