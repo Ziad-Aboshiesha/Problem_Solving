@@ -1,0 +1,16 @@
+﻿public class Solution {
+    public int MaximumWealth(int[][] accounts) {
+        int result = 0 ;
+        for(int i = 0; i < accounts.GetLength(0); i++)
+        {
+            int temp = 0 ;
+            for(int j = 0 ; j < accounts[i].Length; j++)
+            {
+                temp += accounts[i][j];
+            }
+            result = Math.Max(result, temp);
+        }
+        return result;
+    }
+
+}
