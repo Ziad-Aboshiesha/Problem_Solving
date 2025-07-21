@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\1957. Delete Characters to Make Fancy String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C81350E-E512-4499-B157-9E2FEBBDE378}|1957. Delete Characters to Make Fancy String\\1957. Delete Characters to Make Fancy String.csproj|d:\\self_study\\problem_solving\\leetcode\\easy\\1957. delete characters to make fancy string\\1957. delete characters to make fancy string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C81350E-E512-4499-B157-9E2FEBBDE378}|1957. Delete Characters to Make Fancy String\\1957. Delete Characters to Make Fancy String.csproj|solutionrelative:1957. delete characters to make fancy string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\1957. Delete Characters to Make Fancy String\\1957. Delete Characters to Make Fancy String\\Program.cs",
+              "RelativeDocumentMoniker": "1957. Delete Characters to Make Fancy String\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\1957. Delete Characters to Make Fancy String\\1957. Delete Characters to Make Fancy String\\Program.cs",
+              "RelativeToolTip": "1957. Delete Characters to Make Fancy String\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:05:07.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
