@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1695. Maximum Erasure Value\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B51FF70-9625-4556-9DCF-D98B6DFB972F}|1695. Maximum Erasure Value\\1695. Maximum Erasure Value.csproj|d:\\self_study\\problem_solving\\leetcode\\medium\\1695. maximum erasure value\\1695. maximum erasure value\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B51FF70-9625-4556-9DCF-D98B6DFB972F}|1695. Maximum Erasure Value\\1695. Maximum Erasure Value.csproj|solutionrelative:1695. maximum erasure value\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1695. Maximum Erasure Value\\1695. Maximum Erasure Value\\Program.cs",
+              "RelativeDocumentMoniker": "1695. Maximum Erasure Value\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1695. Maximum Erasure Value\\1695. Maximum Erasure Value\\Program.cs*",
+              "RelativeToolTip": "1695. Maximum Erasure Value\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:34:57.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
