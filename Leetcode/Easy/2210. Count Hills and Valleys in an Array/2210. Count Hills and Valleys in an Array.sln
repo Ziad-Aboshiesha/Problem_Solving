@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2210. Count Hills and Valleys in an Array", "2210. Count Hills and Valleys in an Array\2210. Count Hills and Valleys in an Array.csproj", "{CB70FCA8-DDA1-4B93-A7F2-DE15F6D95376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB70FCA8-DDA1-4B93-A7F2-DE15F6D95376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB70FCA8-DDA1-4B93-A7F2-DE15F6D95376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB70FCA8-DDA1-4B93-A7F2-DE15F6D95376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB70FCA8-DDA1-4B93-A7F2-DE15F6D95376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90DB56FD-9F3A-470F-BEC9-BFCF89460E0A}
+	EndGlobalSection
+EndGlobal

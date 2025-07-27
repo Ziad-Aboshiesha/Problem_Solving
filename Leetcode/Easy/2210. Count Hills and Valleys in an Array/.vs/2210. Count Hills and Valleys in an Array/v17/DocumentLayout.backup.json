@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\2210. Count Hills and Valleys in an Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB70FCA8-DDA1-4B93-A7F2-DE15F6D95376}|2210. Count Hills and Valleys in an Array\\2210. Count Hills and Valleys in an Array.csproj|d:\\self_study\\problem_solving\\leetcode\\easy\\2210. count hills and valleys in an array\\2210. count hills and valleys in an array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB70FCA8-DDA1-4B93-A7F2-DE15F6D95376}|2210. Count Hills and Valleys in an Array\\2210. Count Hills and Valleys in an Array.csproj|solutionrelative:2210. count hills and valleys in an array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\2210. Count Hills and Valleys in an Array\\2210. Count Hills and Valleys in an Array\\Program.cs",
+              "RelativeDocumentMoniker": "2210. Count Hills and Valleys in an Array\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\2210. Count Hills and Valleys in an Array\\2210. Count Hills and Valleys in an Array\\Program.cs",
+              "RelativeToolTip": "2210. Count Hills and Valleys in an Array\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:06:57.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
