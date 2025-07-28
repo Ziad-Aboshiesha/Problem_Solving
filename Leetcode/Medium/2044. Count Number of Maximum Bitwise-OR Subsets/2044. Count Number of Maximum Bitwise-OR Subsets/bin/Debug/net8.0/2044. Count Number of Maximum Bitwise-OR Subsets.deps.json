@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2044. Count Number of Maximum Bitwise-OR Subsets/1.0.0": {
+        "runtime": {
+          "2044. Count Number of Maximum Bitwise-OR Subsets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2044. Count Number of Maximum Bitwise-OR Subsets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
