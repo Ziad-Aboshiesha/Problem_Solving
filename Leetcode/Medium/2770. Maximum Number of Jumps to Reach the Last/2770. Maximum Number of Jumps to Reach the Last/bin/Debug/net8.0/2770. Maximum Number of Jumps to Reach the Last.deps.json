@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2770. Maximum Number of Jumps to Reach the Last/1.0.0": {
+        "runtime": {
+          "2770. Maximum Number of Jumps to Reach the Last.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2770. Maximum Number of Jumps to Reach the Last/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
