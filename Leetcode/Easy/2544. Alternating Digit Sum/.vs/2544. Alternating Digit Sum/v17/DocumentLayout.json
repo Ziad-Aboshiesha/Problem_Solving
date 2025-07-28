@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\2544. Alternating Digit Sum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9159B557-1991-4D79-9603-3E85545885B4}|2544. Alternating Digit Sum\\2544. Alternating Digit Sum.csproj|d:\\self_study\\problem_solving\\leetcode\\easy\\2544. alternating digit sum\\2544. alternating digit sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9159B557-1991-4D79-9603-3E85545885B4}|2544. Alternating Digit Sum\\2544. Alternating Digit Sum.csproj|solutionrelative:2544. alternating digit sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\2544. Alternating Digit Sum\\2544. Alternating Digit Sum\\Program.cs",
+              "RelativeDocumentMoniker": "2544. Alternating Digit Sum\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\2544. Alternating Digit Sum\\2544. Alternating Digit Sum\\Program.cs",
+              "RelativeToolTip": "2544. Alternating Digit Sum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:06:53.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
