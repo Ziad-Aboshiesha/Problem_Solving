@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1004. Max Consecutive Ones III\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9C068A-A581-49AB-AAA5-E0BA172865D3}|1004. Max Consecutive Ones III\\1004. Max Consecutive Ones III.csproj|d:\\self_study\\problem_solving\\leetcode\\medium\\1004. max consecutive ones iii\\1004. max consecutive ones iii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9C068A-A581-49AB-AAA5-E0BA172865D3}|1004. Max Consecutive Ones III\\1004. Max Consecutive Ones III.csproj|solutionrelative:1004. max consecutive ones iii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1004. Max Consecutive Ones III\\1004. Max Consecutive Ones III\\Program.cs",
+              "RelativeDocumentMoniker": "1004. Max Consecutive Ones III\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1004. Max Consecutive Ones III\\1004. Max Consecutive Ones III\\Program.cs",
+              "RelativeToolTip": "1004. Max Consecutive Ones III\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:36:43.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

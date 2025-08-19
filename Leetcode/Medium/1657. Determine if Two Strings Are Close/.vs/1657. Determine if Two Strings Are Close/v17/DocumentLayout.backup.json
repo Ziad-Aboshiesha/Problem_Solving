@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1657. Determine if Two Strings Are Close\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98AFBA0E-F8C5-442C-A689-29E62FF9EC70}|1657. Determine if Two Strings Are Close\\1657. Determine if Two Strings Are Close.csproj|d:\\self_study\\problem_solving\\leetcode\\medium\\1657. determine if two strings are close\\1657. determine if two strings are close\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AFBA0E-F8C5-442C-A689-29E62FF9EC70}|1657. Determine if Two Strings Are Close\\1657. Determine if Two Strings Are Close.csproj|solutionrelative:1657. determine if two strings are close\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1657. Determine if Two Strings Are Close\\1657. Determine if Two Strings Are Close\\Program.cs",
+              "RelativeDocumentMoniker": "1657. Determine if Two Strings Are Close\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\1657. Determine if Two Strings Are Close\\1657. Determine if Two Strings Are Close\\Program.cs*",
+              "RelativeToolTip": "1657. Determine if Two Strings Are Close\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:50:13.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

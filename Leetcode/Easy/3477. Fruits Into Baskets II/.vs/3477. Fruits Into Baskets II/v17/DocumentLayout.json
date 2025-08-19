@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\3477. Fruits Into Baskets II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB134087-F9D5-4C47-9672-A0B241D779D0}|3477. Fruits Into Baskets II\\3477. Fruits Into Baskets II.csproj|d:\\self_study\\problem_solving\\leetcode\\easy\\3477. fruits into baskets ii\\3477. fruits into baskets ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB134087-F9D5-4C47-9672-A0B241D779D0}|3477. Fruits Into Baskets II\\3477. Fruits Into Baskets II.csproj|solutionrelative:3477. fruits into baskets ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\3477. Fruits Into Baskets II\\3477. Fruits Into Baskets II\\Program.cs",
+              "RelativeDocumentMoniker": "3477. Fruits Into Baskets II\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\3477. Fruits Into Baskets II\\3477. Fruits Into Baskets II\\Program.cs",
+              "RelativeToolTip": "3477. Fruits Into Baskets II\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:44:52.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

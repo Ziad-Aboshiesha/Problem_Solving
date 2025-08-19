@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "1657. Determine if Two Strings Are Close/1.0.0": {
+        "runtime": {
+          "1657. Determine if Two Strings Are Close.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1657. Determine if Two Strings Are Close/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

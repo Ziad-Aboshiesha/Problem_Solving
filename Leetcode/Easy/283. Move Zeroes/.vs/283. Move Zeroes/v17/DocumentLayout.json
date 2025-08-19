@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\283. Move Zeroes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D471D70E-9E21-485A-87EC-AD97585E7B2E}|283. Move Zeroes\\283. Move Zeroes.csproj|d:\\self_study\\problem_solving\\leetcode\\easy\\283. move zeroes\\283. move zeroes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D471D70E-9E21-485A-87EC-AD97585E7B2E}|283. Move Zeroes\\283. Move Zeroes.csproj|solutionrelative:283. move zeroes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\283. Move Zeroes\\283. Move Zeroes\\Program.cs",
+              "RelativeDocumentMoniker": "283. Move Zeroes\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\283. Move Zeroes\\283. Move Zeroes\\Program.cs",
+              "RelativeToolTip": "283. Move Zeroes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T16:39:41.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

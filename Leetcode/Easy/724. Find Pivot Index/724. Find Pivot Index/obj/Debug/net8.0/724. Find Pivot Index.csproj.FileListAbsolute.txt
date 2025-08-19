@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\bin\Debug\net8.0\724. Find Pivot Index.exe
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\bin\Debug\net8.0\724. Find Pivot Index.deps.json
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\bin\Debug\net8.0\724. Find Pivot Index.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\bin\Debug\net8.0\724. Find Pivot Index.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\bin\Debug\net8.0\724. Find Pivot Index.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\net8.0\724. Find Pivot Index.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\net8.0\724. Find Pivot Index.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\net8.0\724. Find Pivot Index.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\net8.0\724. Find Pivot Index.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\net8.0\724. Find Pivot Index.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\net8.0\724. Find Pivot Index.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\net8.0\refint\724. Find Pivot Index.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\net8.0\724. Find Pivot Index.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\net8.0\724. Find Pivot Index.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\724. Find Pivot Index\724. Find Pivot Index\obj\Debug\net8.0\ref\724. Find Pivot Index.dll

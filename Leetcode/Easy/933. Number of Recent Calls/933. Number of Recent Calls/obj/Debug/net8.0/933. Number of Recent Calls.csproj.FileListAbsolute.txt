@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\bin\Debug\net8.0\933. Number of Recent Calls.exe
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\bin\Debug\net8.0\933. Number of Recent Calls.deps.json
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\bin\Debug\net8.0\933. Number of Recent Calls.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\bin\Debug\net8.0\933. Number of Recent Calls.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\bin\Debug\net8.0\933. Number of Recent Calls.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\obj\Debug\net8.0\933. Number of Recent Calls.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\obj\Debug\net8.0\933. Number of Recent Calls.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\obj\Debug\net8.0\933. Number of Recent Calls.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\obj\Debug\net8.0\933. Number of Recent Calls.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\obj\Debug\net8.0\933. Number of Recent Calls.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\obj\Debug\net8.0\933. Number of Recent Calls.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\obj\Debug\net8.0\refint\933. Number of Recent Calls.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\obj\Debug\net8.0\933. Number of Recent Calls.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\obj\Debug\net8.0\933. Number of Recent Calls.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\933. Number of Recent Calls\933. Number of Recent Calls\obj\Debug\net8.0\ref\933. Number of Recent Calls.dll

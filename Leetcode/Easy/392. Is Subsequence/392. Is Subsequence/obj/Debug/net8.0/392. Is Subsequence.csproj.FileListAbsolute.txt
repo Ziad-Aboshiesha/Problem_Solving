@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\bin\Debug\net8.0\392. Is Subsequence.exe
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\bin\Debug\net8.0\392. Is Subsequence.deps.json
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\bin\Debug\net8.0\392. Is Subsequence.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\bin\Debug\net8.0\392. Is Subsequence.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\bin\Debug\net8.0\392. Is Subsequence.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\obj\Debug\net8.0\392. Is Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\obj\Debug\net8.0\392. Is Subsequence.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\obj\Debug\net8.0\392. Is Subsequence.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\obj\Debug\net8.0\392. Is Subsequence.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\obj\Debug\net8.0\392. Is Subsequence.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\obj\Debug\net8.0\392. Is Subsequence.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\obj\Debug\net8.0\refint\392. Is Subsequence.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\obj\Debug\net8.0\392. Is Subsequence.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\obj\Debug\net8.0\392. Is Subsequence.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\392. Is Subsequence\392. Is Subsequence\obj\Debug\net8.0\ref\392. Is Subsequence.dll

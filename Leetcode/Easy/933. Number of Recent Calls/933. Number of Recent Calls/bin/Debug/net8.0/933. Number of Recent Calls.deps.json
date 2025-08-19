@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "933. Number of Recent Calls/1.0.0": {
+        "runtime": {
+          "933. Number of Recent Calls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "933. Number of Recent Calls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

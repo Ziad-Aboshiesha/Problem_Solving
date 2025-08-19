@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2348. Number of Zero-Filled Subarrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B8FE3-22FE-400A-B793-D995A52853B0}|2348. Number of Zero-Filled Subarrays\\2348. Number of Zero-Filled Subarrays.csproj|d:\\self_study\\problem_solving\\leetcode\\medium\\2348. number of zero-filled subarrays\\2348. number of zero-filled subarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B8FE3-22FE-400A-B793-D995A52853B0}|2348. Number of Zero-Filled Subarrays\\2348. Number of Zero-Filled Subarrays.csproj|solutionrelative:2348. number of zero-filled subarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2348. Number of Zero-Filled Subarrays\\2348. Number of Zero-Filled Subarrays\\Program.cs",
+              "RelativeDocumentMoniker": "2348. Number of Zero-Filled Subarrays\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2348. Number of Zero-Filled Subarrays\\2348. Number of Zero-Filled Subarrays\\Program.cs",
+              "RelativeToolTip": "2348. Number of Zero-Filled Subarrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T03:20:44.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
