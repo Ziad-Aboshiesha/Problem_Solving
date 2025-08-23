@@ -5,20 +5,34 @@
         public bool CloseStrings(string word1, string word2)
         {
             if(word1.Length != word2.Length) return false;
-            char[] chars = word1.ToCharArray();
-            HashSet<char> result = chars.ToHashSet();
-            char[] chars2 = word2.ToCharArray();
-            HashSet<char> result2 = chars2.ToHashSet();
-            foreach(char c in result)
+            Dictionary<char, int> dict1 = new Dictionary<char, int>();
+            Dictionary<char, int> dict2 = new Dictionary<char, int>();
+            for (int i = 0; i < word1.Length; i++)
             {
-                if(!result2.Contains(c)) return false;
-                result2.Remove(c);
-                result.Remove(c);
-
+                dict1.TryAdd(word1[i], 0);
+                dict1[word1[i]]++;
+                dict2.TryAdd(word2[i], 0);
+                dict2[word2[i]]++;
             }
-            if(result2.Count != 0 || result.Count!=0) return false;
-            return true;
+            if(dict1.Count != dict2.Count) return false;
+            var list1 = dict1.ToList();
+            var list2 = dict2.ToList();
+            Dictionary<int , int> dict3 = new Dictionary<int , int>();
+            Dictionary<int , int> dict4 = new Dictionary<int , int>();
+            for (int i = 0; i < list1.Count; i++)
+            {
+                if (!dict2.ContainsKey(list1[i].Key)) return false;
+                dict3.TryAdd(list1[i].Value, 0);
+                dict3[list1[i].Value]++;
+                dict4.TryAdd(list2[i].Value, 0);
+                dict4[list2[i].Value]++;
+            }
 
+            foreach (var item in dict4)
+            {
+                if (!dict3.ContainsKey(item.Key) || dict3[item.Key] != dict4[item.Key]) return false; 
+            }
+            return true;
         }
     }
     internal class Program

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2971. Find Polygon With the Largest Perimeter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A18756F6-0449-4BE8-AD83-E1BC7CC2C71E}|2971. Find Polygon With the Largest Perimeter\\2971. Find Polygon With the Largest Perimeter.csproj|d:\\self_study\\problem_solving\\leetcode\\medium\\2971. find polygon with the largest perimeter\\2971. find polygon with the largest perimeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18756F6-0449-4BE8-AD83-E1BC7CC2C71E}|2971. Find Polygon With the Largest Perimeter\\2971. Find Polygon With the Largest Perimeter.csproj|solutionrelative:2971. find polygon with the largest perimeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2971. Find Polygon With the Largest Perimeter\\2971. Find Polygon With the Largest Perimeter\\Program.cs",
+              "RelativeDocumentMoniker": "2971. Find Polygon With the Largest Perimeter\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\2971. Find Polygon With the Largest Perimeter\\2971. Find Polygon With the Largest Perimeter\\Program.cs",
+              "RelativeToolTip": "2971. Find Polygon With the Largest Perimeter\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:28:17.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

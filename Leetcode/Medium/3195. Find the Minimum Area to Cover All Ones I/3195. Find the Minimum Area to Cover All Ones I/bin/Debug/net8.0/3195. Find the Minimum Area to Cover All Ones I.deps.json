@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "3195. Find the Minimum Area to Cover All Ones I/1.0.0": {
+        "runtime": {
+          "3195. Find the Minimum Area to Cover All Ones I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3195. Find the Minimum Area to Cover All Ones I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

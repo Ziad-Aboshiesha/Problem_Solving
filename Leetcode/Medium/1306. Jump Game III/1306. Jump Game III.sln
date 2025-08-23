@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1306. Jump Game III", "1306. Jump Game III\1306. Jump Game III.csproj", "{EDAA1F52-D4D7-49D3-BAF1-21953CB3E2E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAA1F52-D4D7-49D3-BAF1-21953CB3E2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAA1F52-D4D7-49D3-BAF1-21953CB3E2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAA1F52-D4D7-49D3-BAF1-21953CB3E2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAA1F52-D4D7-49D3-BAF1-21953CB3E2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CB3A9C5-BA65-4009-BC13-B936DD6B7CB2}
+	EndGlobalSection
+EndGlobal

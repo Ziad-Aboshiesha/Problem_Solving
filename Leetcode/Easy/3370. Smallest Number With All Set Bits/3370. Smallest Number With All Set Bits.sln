@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3370. Smallest Number With All Set Bits", "3370. Smallest Number With All Set Bits\3370. Smallest Number With All Set Bits.csproj", "{AF142403-D81D-4D26-848A-923FE157A8AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF142403-D81D-4D26-848A-923FE157A8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF142403-D81D-4D26-848A-923FE157A8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF142403-D81D-4D26-848A-923FE157A8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF142403-D81D-4D26-848A-923FE157A8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E75AF72C-95A6-4FE4-99E0-93619A4A1B50}
+	EndGlobalSection
+EndGlobal
