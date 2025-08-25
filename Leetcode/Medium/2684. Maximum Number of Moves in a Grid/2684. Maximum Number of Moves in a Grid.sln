@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2684. Maximum Number of Moves in a Grid", "2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid.csproj", "{B59412BB-2602-470A-BBB6-8CF40D6C77ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59412BB-2602-470A-BBB6-8CF40D6C77ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59412BB-2602-470A-BBB6-8CF40D6C77ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59412BB-2602-470A-BBB6-8CF40D6C77ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59412BB-2602-470A-BBB6-8CF40D6C77ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CC3E32B-1B73-45AB-939F-2F83C2234D54}
+	EndGlobalSection
+EndGlobal

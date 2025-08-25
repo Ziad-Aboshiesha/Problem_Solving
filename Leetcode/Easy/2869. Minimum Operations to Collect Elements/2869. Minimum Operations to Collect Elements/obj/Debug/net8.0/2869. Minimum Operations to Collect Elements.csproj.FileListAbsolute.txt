@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\bin\Debug\net8.0\2869. Minimum Operations to Collect Elements.exe
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\bin\Debug\net8.0\2869. Minimum Operations to Collect Elements.deps.json
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\bin\Debug\net8.0\2869. Minimum Operations to Collect Elements.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\bin\Debug\net8.0\2869. Minimum Operations to Collect Elements.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\bin\Debug\net8.0\2869. Minimum Operations to Collect Elements.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\obj\Debug\net8.0\2869. Minimum Operations to Collect Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\obj\Debug\net8.0\2869. Minimum Operations to Collect Elements.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\obj\Debug\net8.0\2869. Minimum Operations to Collect Elements.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\obj\Debug\net8.0\2869. Minimum Operations to Collect Elements.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\obj\Debug\net8.0\2869. Minimum Operations to Collect Elements.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\obj\Debug\net8.0\2869. Minimum Operations to Collect Elements.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\obj\Debug\net8.0\refint\2869. Minimum Operations to Collect Elements.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\obj\Debug\net8.0\2869. Minimum Operations to Collect Elements.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\obj\Debug\net8.0\2869. Minimum Operations to Collect Elements.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\2869. Minimum Operations to Collect Elements\2869. Minimum Operations to Collect Elements\obj\Debug\net8.0\ref\2869. Minimum Operations to Collect Elements.dll

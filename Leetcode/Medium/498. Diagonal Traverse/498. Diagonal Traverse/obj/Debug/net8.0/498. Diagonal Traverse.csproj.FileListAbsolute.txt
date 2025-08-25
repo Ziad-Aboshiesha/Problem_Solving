@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\bin\Debug\net8.0\498. Diagonal Traverse.exe
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\bin\Debug\net8.0\498. Diagonal Traverse.deps.json
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\bin\Debug\net8.0\498. Diagonal Traverse.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\bin\Debug\net8.0\498. Diagonal Traverse.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\bin\Debug\net8.0\498. Diagonal Traverse.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\obj\Debug\net8.0\498. Diagonal Traverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\obj\Debug\net8.0\498. Diagonal Traverse.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\obj\Debug\net8.0\498. Diagonal Traverse.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\obj\Debug\net8.0\498. Diagonal Traverse.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\obj\Debug\net8.0\498. Diagonal Traverse.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\obj\Debug\net8.0\498. Diagonal Traverse.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\obj\Debug\net8.0\refint\498. Diagonal Traverse.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\obj\Debug\net8.0\498. Diagonal Traverse.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\obj\Debug\net8.0\498. Diagonal Traverse.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\498. Diagonal Traverse\498. Diagonal Traverse\obj\Debug\net8.0\ref\498. Diagonal Traverse.dll

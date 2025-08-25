@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "498. Diagonal Traverse/1.0.0": {
+        "runtime": {
+          "498. Diagonal Traverse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "498. Diagonal Traverse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

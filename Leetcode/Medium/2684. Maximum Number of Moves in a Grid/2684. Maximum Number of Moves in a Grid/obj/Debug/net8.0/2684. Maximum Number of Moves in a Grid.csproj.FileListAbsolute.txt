@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\bin\Debug\net8.0\2684. Maximum Number of Moves in a Grid.exe
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\bin\Debug\net8.0\2684. Maximum Number of Moves in a Grid.deps.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\bin\Debug\net8.0\2684. Maximum Number of Moves in a Grid.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\bin\Debug\net8.0\2684. Maximum Number of Moves in a Grid.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\bin\Debug\net8.0\2684. Maximum Number of Moves in a Grid.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\obj\Debug\net8.0\2684. Maximum Number of Moves in a Grid.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\obj\Debug\net8.0\2684. Maximum Number of Moves in a Grid.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\obj\Debug\net8.0\2684. Maximum Number of Moves in a Grid.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\obj\Debug\net8.0\2684. Maximum Number of Moves in a Grid.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\obj\Debug\net8.0\2684. Maximum Number of Moves in a Grid.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\obj\Debug\net8.0\2684. Maximum Number of Moves in a Grid.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\obj\Debug\net8.0\refint\2684. Maximum Number of Moves in a Grid.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\obj\Debug\net8.0\2684. Maximum Number of Moves in a Grid.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\obj\Debug\net8.0\2684. Maximum Number of Moves in a Grid.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\2684. Maximum Number of Moves in a Grid\2684. Maximum Number of Moves in a Grid\obj\Debug\net8.0\ref\2684. Maximum Number of Moves in a Grid.dll
