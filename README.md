@@ -40,9 +40,11 @@ For each problem, I have included an analysis of the **time complexity** and **s
 ## Contact
 
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ziad-mohamed-029b69281/)
+  [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ziad-mohamed-029b69281/)
 - **Gmail**: ziadaboshiesha2@gmail.com
-[![LinkedIn](https://img.icons8.com/color/48/000000/gmail.png)](mailto:ziadaboshiesha2@gmail.com)
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ziad-mohamed-029b69281/)
+-  [![LinkedIn](https://img.icons8.com/color/48/000000/gmail.png)](mailto:ziadaboshiesha2@gmail.com)
+
+
 
 Feel free to reach out to me for any questions or discussions related to coding challenges, algorithms, or anything else!
 
