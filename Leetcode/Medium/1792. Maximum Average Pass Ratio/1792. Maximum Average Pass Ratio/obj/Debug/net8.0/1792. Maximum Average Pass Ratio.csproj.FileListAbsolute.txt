@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\bin\Debug\net8.0\1792. Maximum Average Pass Ratio.exe
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\bin\Debug\net8.0\1792. Maximum Average Pass Ratio.deps.json
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\bin\Debug\net8.0\1792. Maximum Average Pass Ratio.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\bin\Debug\net8.0\1792. Maximum Average Pass Ratio.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\bin\Debug\net8.0\1792. Maximum Average Pass Ratio.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\obj\Debug\net8.0\1792. Maximum Average Pass Ratio.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\obj\Debug\net8.0\1792. Maximum Average Pass Ratio.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\obj\Debug\net8.0\1792. Maximum Average Pass Ratio.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\obj\Debug\net8.0\1792. Maximum Average Pass Ratio.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\obj\Debug\net8.0\1792. Maximum Average Pass Ratio.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\obj\Debug\net8.0\1792. Maximum Average Pass Ratio.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\obj\Debug\net8.0\refint\1792. Maximum Average Pass Ratio.dll
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\obj\Debug\net8.0\1792. Maximum Average Pass Ratio.pdb
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\obj\Debug\net8.0\1792. Maximum Average Pass Ratio.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Medium\1792. Maximum Average Pass Ratio\1792. Maximum Average Pass Ratio\obj\Debug\net8.0\ref\1792. Maximum Average Pass Ratio.dll

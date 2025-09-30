@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.exe
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.deps.json
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\refint\35. Search Insert Position.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\ref\35. Search Insert Position.dll

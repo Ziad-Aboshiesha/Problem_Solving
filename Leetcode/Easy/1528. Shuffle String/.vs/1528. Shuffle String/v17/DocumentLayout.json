@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\1528. Shuffle String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3E090-3ADA-41F3-998D-E759909118C3}|1528. Shuffle String\\1528. Shuffle String.csproj|d:\\self_study\\problem_solving\\leetcode\\easy\\1528. shuffle string\\1528. shuffle string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3E090-3ADA-41F3-998D-E759909118C3}|1528. Shuffle String\\1528. Shuffle String.csproj|solutionrelative:1528. shuffle string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\1528. Shuffle String\\1528. Shuffle String\\Program.cs",
+              "RelativeDocumentMoniker": "1528. Shuffle String\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\1528. Shuffle String\\1528. Shuffle String\\Program.cs",
+              "RelativeToolTip": "1528. Shuffle String\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T20:30:27.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

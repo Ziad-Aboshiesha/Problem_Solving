@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("88. Merge Sorted Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b7efc973ec0e17e27a60a0157c91188a1e06e45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feb69f1f14320d28cf7aa106aafe0a49510dadd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("88. Merge Sorted Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("88. Merge Sorted Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

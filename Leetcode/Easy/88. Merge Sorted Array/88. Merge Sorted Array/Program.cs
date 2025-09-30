@@ -3,40 +3,34 @@
     public class Solution
     {
         // time  : O(n + m)
-        // space : O(m)
+        // space : O(1)
         public void Merge(int[] nums1, int m, int[] nums2, int n)
         {
-            int[] temp = new int[m];
-            Array.Copy(nums1, temp, m);
-            int i = 0;
-            int j = 0;
-            int k = 0;
-            while (i < m && j < n)
+            int i = m - 1;
+            int j = n - 1;
+            int k = m + n - 1;
+            while (i >= 0 && j >= 0) 
             {
-                if (temp[i] < nums2[j])
+                if(nums1[i] < nums2[j])
                 {
-                    nums1[k] = temp[i];
-                    i++;
+                    nums1[k] = nums2[j];
+                    j--;
                 }
                 else
                 {
-                    nums1[k] = nums2[j];
-                    j++;
+                    nums1[k] = nums1[i];
+                    i--;
                 }
-                k++;
+                k--;
             }
-            for (; i < m; i++)
-            {
-                nums1[k] = temp[i];
-                k++;
-            }
-
-            for (; j < n; j++)
+            while(j>=0)
             {
                 nums1[k] = nums2[j];
-                k++;
+                j--;
+                k--;
             }
         }
+
     }
     internal class Program
     {
