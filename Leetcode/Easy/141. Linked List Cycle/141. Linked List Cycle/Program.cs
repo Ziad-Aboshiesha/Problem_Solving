@@ -18,20 +18,22 @@ namespace _141._Linked_List_Cycle
     {
         public bool HasCycle(ListNode head)
         {
-            HashSet<ListNode> visited = new HashSet<ListNode>();
-            while (head != null) 
+           ListNode fast = head;
+            ListNode slow = head;
+            while (fast != null && fast.next != null)
             {
-                if(visited.Contains(head))
+                fast = fast.next.next;
+                slow = slow.next;
+                if (fast == slow)
                 {
                     return true;
                 }
-                else
-                {
-                    visited.Add(head);
-                }
-                head = head.next;
+               
+                  
+                
             }
             return false;
+
         }
     }
     internal class Program

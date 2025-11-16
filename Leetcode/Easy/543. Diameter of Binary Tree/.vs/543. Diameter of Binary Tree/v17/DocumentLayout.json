@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\543. Diameter of Binary Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D87D0A93-ECB3-4578-9BA7-7FB16DDAA3A0}|543. Diameter of Binary Tree\\543. Diameter of Binary Tree.csproj|d:\\self_study\\problem_solving\\leetcode\\easy\\543. diameter of binary tree\\543. diameter of binary tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87D0A93-ECB3-4578-9BA7-7FB16DDAA3A0}|543. Diameter of Binary Tree\\543. Diameter of Binary Tree.csproj|solutionrelative:543. diameter of binary tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\543. Diameter of Binary Tree\\543. Diameter of Binary Tree\\Program.cs",
+              "RelativeDocumentMoniker": "543. Diameter of Binary Tree\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\543. Diameter of Binary Tree\\543. Diameter of Binary Tree\\Program.cs",
+              "RelativeToolTip": "543. Diameter of Binary Tree\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:12:23.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

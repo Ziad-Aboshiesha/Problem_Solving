@@ -1,0 +1,15 @@
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\bin\Debug\net8.0\1365. How Many Numbers Are Smaller Than.exe
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\bin\Debug\net8.0\1365. How Many Numbers Are Smaller Than.deps.json
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\bin\Debug\net8.0\1365. How Many Numbers Are Smaller Than.runtimeconfig.json
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\bin\Debug\net8.0\1365. How Many Numbers Are Smaller Than.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\bin\Debug\net8.0\1365. How Many Numbers Are Smaller Than.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\obj\Debug\net8.0\1365. How Many Numbers Are Smaller Than.GeneratedMSBuildEditorConfig.editorconfig
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\obj\Debug\net8.0\1365. How Many Numbers Are Smaller Than.AssemblyInfoInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\obj\Debug\net8.0\1365. How Many Numbers Are Smaller Than.AssemblyInfo.cs
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\obj\Debug\net8.0\1365. How Many Numbers Are Smaller Than.csproj.CoreCompileInputs.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\obj\Debug\net8.0\1365. How Many Numbers Are Smaller Than.sourcelink.json
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\obj\Debug\net8.0\1365. How Many Numbers Are Smaller Than.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\obj\Debug\net8.0\refint\1365. How Many Numbers Are Smaller Than.dll
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\obj\Debug\net8.0\1365. How Many Numbers Are Smaller Than.pdb
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\obj\Debug\net8.0\1365. How Many Numbers Are Smaller Than.genruntimeconfig.cache
+D:\self_study\Problem_Solving\Leetcode\Easy\1365. How Many Numbers Are Smaller Than\1365. How Many Numbers Are Smaller Than\obj\Debug\net8.0\ref\1365. How Many Numbers Are Smaller Than.dll

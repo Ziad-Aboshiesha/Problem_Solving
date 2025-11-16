@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "110. Balanced Binary Tree/1.0.0": {
+        "runtime": {
+          "110. Balanced Binary Tree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "110. Balanced Binary Tree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

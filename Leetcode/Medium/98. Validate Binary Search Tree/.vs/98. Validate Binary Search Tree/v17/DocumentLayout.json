@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\98. Validate Binary Search Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A38301FC-55FF-48F2-A763-66FF3BFEE5EC}|98. Validate Binary Search Tree\\98. Validate Binary Search Tree.csproj|d:\\self_study\\problem_solving\\leetcode\\medium\\98. validate binary search tree\\98. validate binary search tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38301FC-55FF-48F2-A763-66FF3BFEE5EC}|98. Validate Binary Search Tree\\98. Validate Binary Search Tree.csproj|solutionrelative:98. validate binary search tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\98. Validate Binary Search Tree\\98. Validate Binary Search Tree\\Program.cs",
+              "RelativeDocumentMoniker": "98. Validate Binary Search Tree\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\98. Validate Binary Search Tree\\98. Validate Binary Search Tree\\Program.cs",
+              "RelativeToolTip": "98. Validate Binary Search Tree\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T04:35:58.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

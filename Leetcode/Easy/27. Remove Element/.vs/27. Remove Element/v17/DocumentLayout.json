@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\27. Remove Element\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0DA01-5B8E-40C9-B137-D431A1827442}|27. Remove Element\\27. Remove Element.csproj|d:\\self_study\\problem_solving\\leetcode\\easy\\27. remove element\\27. remove element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B0DA01-5B8E-40C9-B137-D431A1827442}|27. Remove Element\\27. Remove Element.csproj|solutionrelative:27. remove element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\27. Remove Element\\27. Remove Element\\Program.cs",
+              "RelativeDocumentMoniker": "27. Remove Element\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Easy\\27. Remove Element\\27. Remove Element\\Program.cs",
+              "RelativeToolTip": "27. Remove Element\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T08:34:55.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

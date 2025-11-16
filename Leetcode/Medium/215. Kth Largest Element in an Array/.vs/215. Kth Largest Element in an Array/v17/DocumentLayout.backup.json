@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\215. Kth Largest Element in an Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74BC685C-3254-439D-843A-CE5A775D2506}|215. Kth Largest Element in an Array\\215. Kth Largest Element in an Array.csproj|d:\\self_study\\problem_solving\\leetcode\\medium\\215. kth largest element in an array\\215. kth largest element in an array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BC685C-3254-439D-843A-CE5A775D2506}|215. Kth Largest Element in an Array\\215. Kth Largest Element in an Array.csproj|solutionrelative:215. kth largest element in an array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\215. Kth Largest Element in an Array\\215. Kth Largest Element in an Array\\Program.cs",
+              "RelativeDocumentMoniker": "215. Kth Largest Element in an Array\\Program.cs",
+              "ToolTip": "D:\\self_study\\Problem_Solving\\Leetcode\\Medium\\215. Kth Largest Element in an Array\\215. Kth Largest Element in an Array\\Program.cs*",
+              "RelativeToolTip": "215. Kth Largest Element in an Array\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:04:32.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

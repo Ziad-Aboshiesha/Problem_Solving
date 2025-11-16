@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "621. Task Scheduler/1.0.0": {
+        "runtime": {
+          "621. Task Scheduler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "621. Task Scheduler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
